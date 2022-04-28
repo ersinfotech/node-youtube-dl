@@ -1,5 +1,5 @@
 {
-  "name": "youtube-dl",
+  "name": "@ersinfotech/youtube-dl",
   "description": "youtube-dl driver for node",
   "homepage": "https://github.com/przemyslawpluta/node-youtube-dl#readme",
   "version": "3.5.0",
